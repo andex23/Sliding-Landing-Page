@@ -1,24 +1,20 @@
-# Frontend Mentor - NFT preview card component solution
-
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+Sliding Landing Page
 
 
 ### Built with
 
-HTML & CSS
+HTML CSS and Javascript
 - 
 
 
 
 ### What I learned
 
-I Refined how i use my flexboxes for better positioning of my items.
+Learning basic Javascript
 
 ``
 ## Author
   XO
 
-- Frontend Mentor - [@andex23](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@Mrlessthanzero](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@andex23]
+- Twitter - [@mrlessthanzero](https://www.twitter.com/mrrlessthanzero)
